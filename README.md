@@ -257,22 +257,40 @@ Summary
        ![Setting up a custom network in Metamask](./docs/05-setup-custom-network-in-metamask.png "Setting up a custom network in Metamask")
 
     2. Fill in network details:
+
        ![Filling in custom network's details](./docs/06-setup-custom-network-in-metamask.png "Filling in custom network's details")
+
     3. Copy deployment account's private key from Ganache:
+
        ![Copying deployment account's private key from Ganache](./docs/07-get-account-private-key-in-ganache.png "Copying deployment account's private key from Ganache")
+
        ![Copying deployment account's private key from Ganache](./docs/08-copy-account-private-key-in-ganache.png "Copying deployment account's private key from Ganache")
+
     4. Import a new account into Metamask:
+
        ![Importing a new account into Metamask](./docs/09-import-new-account-into-metamask.png "Importing a new account into Metamask")
+
     5. Fill in account's details:
+
        ![Filling in accounts's details](./docs/10-import-private-key-into-metamask.png "Filling in accounts's details")
+
     6. Add token contract:
+
        ![Adding a token contract](./docs/11-add-token-contract-in-metamask.png "Adding a token contract")
        ![Adding a token contract](./docs/12-add-token-contract-in-metamask.png "Adding a token contract")
+
     7. Add token contract:
+
        ![Copying token contract's address from Ganache](./docs/13-copy-token-contract-address-in-ganache.png "Copying token contract's address from Ganache")
+
     8. Fill in token contract's details in Metamask:
+
        ![Filling in token contract's details in Metamask](./docs/14-filling-in-token-contract-details-in-metamask.png "Filling in token contract's details in Metamask")
+
     9. Fill in token contract's details in Metamask:
+
        ![Adding token contract in Metamask](./docs/15-add-token-contract-in-metamask.png "Adding token contract in Metamask")
+
     10. Make sure that you became a proud owner of `100,000,000 TTT`:
+
         ![Checking token balance in Metamask](./docs/16-check-token-balance-in-metamask.png "Checking token balance in Metamask")
