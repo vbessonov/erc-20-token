@@ -251,8 +251,11 @@ Summary
 </details>
 
 11. Setup Metamask extension:
+
     1. Set up a custom network:
+
        ![Setting up a custom network in Metamask](./docs/05-setup-custom-network-in-metamask.png "Setting up a custom network in Metamask")
+
     2. Fill in network details:
        ![Filling in custom network's details](./docs/06-setup-custom-network-in-metamask.png "Filling in custom network's details")
     3. Copy deployment account's private key from Ganache:
@@ -271,5 +274,5 @@ Summary
        ![Filling in token contract's details in Metamask](./docs/14-filling-in-token-contract-details-in-metamask.png "Filling in token contract's details in Metamask")
     9. Fill in token contract's details in Metamask:
        ![Adding token contract in Metamask](./docs/15-add-token-contract-in-metamask.png "Adding token contract in Metamask")
-    10. Make sure that you became an owner of `100,000,000 TTT`:
+    10. Make sure that you became a proud owner of `100,000,000 TTT`:
         ![Checking token balance in Metamask](./docs/16-check-token-balance-in-metamask.png "Checking token balance in Metamask")
