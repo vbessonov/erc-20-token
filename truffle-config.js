@@ -22,7 +22,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 
 const fs = require("fs");
 const metamaskWalletMnemonic = fs.readFileSync(".secret").toString().trim();
-const infuraProjectID = "c1371374dcf34a2cad8b758a39fe6c3d";
+const infuraProjectID = "<YOUR INFURA PROJECT ID>";
 
 module.exports = {
   /**
@@ -51,7 +51,7 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider(
           metamaskWalletMnemonic,
-          `https://ropsten.infura.io/v3/${infuraProjectID}}`
+          `https://ropsten.infura.io/v3/${infuraProjectID}`
         );
       },
       network_id: 3,
